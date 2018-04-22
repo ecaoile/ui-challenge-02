@@ -1,0 +1,16 @@
+select:invalid { color: gray; }
+
+input[type="button"]{
+  padding:.5em 1.25em;
+  margin-right:.5em;
+}
+
+.light-bg {
+  background-color:#ccc;
+  color:#000;
+}
+
+.dark-bg {
+  background-color:#666;
+  color:#fff;
+}
