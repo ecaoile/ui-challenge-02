@@ -1,0 +1,8 @@
+.input-container {
+  margin:1.5em;
+}
+
+label {
+  display:inline-block;
+  margin:.5em 0;
+}
